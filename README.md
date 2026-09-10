@@ -99,11 +99,16 @@ Users should use MyPillTime in accordance with applicable laws and the requireme
 
 ## 11. Health and Medical Information
 
-MyPillTime is a medication organisation and reminder tool. It is not intended to diagnose medical conditions, prescribe medication, change prescribed treatment, or replace advice from a doctor, pharmacist, or other qualified healthcare professional.
+MyPillTime is a medication organisation and reminder tool. It is **not a medical device** and does not diagnose, treat, cure, or prevent any medical condition.
+
+MyPillTime does not provide medical advice, prescribe medication, determine whether a medication is appropriate for you, or recommend changes to prescribed treatment.
+
+The information entered into MyPillTime is provided and managed by the user and should not be relied upon as a substitute for advice from a doctor, pharmacist, or other qualified healthcare professional.
 
 Always follow the medication instructions provided by your healthcare professional.
 
-If you are unsure whether you should take a medication or what dose you should take, seek advice from an appropriate healthcare professional.
+If you are unsure whether you should take a medication, what dose you should take, or how your medication should be used, consult a doctor, pharmacist, or other qualified healthcare professional.
+
 
 ## 12. Changes to This Privacy Policy
 
